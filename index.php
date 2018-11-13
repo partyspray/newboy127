@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-Ahmed Khaled
+abdelrahman abdullah
 </title><link rel="stylesheet" type="text/css" href="AK.css" 
 media="all,black.css"/><link rel="shortcut icon" href="">
 <?php error_reporting(0);
@@ -45,7 +45,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by AHMED KHALED',
+CURLOPT_USERAGENT => 'DESCRIPTION by abdelrahman Abdullah',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -305,7 +305,7 @@ echo'
 <br><br>
 <center>
 <div class="ZoM">
-<a href="http://facebook.com/100004047739701" alt="Ahmed Khaled" target="_blank">
+<a href="http://facebook.com/boddy.01" alt="abdelrahman Abdullah" target="_blank">
 <center><img
 src="https://graph.facebook.com/100004047739701/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="250" height="250"></a>
 <br><br></center></div></div></div></font>
@@ -361,7 +361,7 @@ placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token He
 <br><input class="button button2" id="sbmt" class="inp-btn" type="submit"  value="sυвмɪτ"></form>
 
 <center><font color="#fff" size="+1"><marquee bgcolor="" direction="left" 
-loop="infinite" width="30%"><strong>ɒєsɪɢи вy αнмєɒ ĸнαℓєɒ
+loop="infinite" width="30%"><strong>abdelrahman abdullah
 </strong></marquee></font></center></div></div></div></font>
 ';
 
